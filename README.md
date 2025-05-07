@@ -2,14 +2,19 @@
 
 A simple Recipe App built using Flutter that allows users to search for recipes from a public API, view detailed recipes, and see a list of ingredients for each recipe.
 
-Features
-Search Functionality: Users can search for recipes by name using the search bar.
+**Features**
 
-Recipe List: Display a list of recipes fetched from the API based on the search query.
+🌤️ Dark/Light mode toggle using ValueNotifier
 
-Recipe Details: Show detailed information about a recipe, including the ingredients list.
+🔍 Search functionality with debounce
 
-Responsive UI: The app is designed to work well on both small and large screens, with a mobile-friendly interface.
+🍽️ Recipe list fetched from TheMealDB API
+
+📋 Detailed recipe view with image, ingredients, and instructions
+
+⭐ "Recipe of the Day" featured in the center of the home screen
+
+▶️ "Watch on YouTube" button in the detail screen
 
 **Tech Stack**
 
