@@ -11,8 +11,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^1.4.0  # Correct placement of the http package here
+  http: ^1.4.0  
   cupertino_icons: ^1.0.8
+  url_launcher: ^6.2.5
 
 dev_dependencies:
   flutter_test:
